@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**PaulBony3/paulbony3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Boniface Rono, a passionate self-taught software developer from Bomet County, Kenya.
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React.js, Vue.js, HTML, CSS, Bootstrap
+- **Backend:** Node.js, Express.js, Django
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Visual Studio Code
+
+
+## 📈 My GitHub Stats
+
+![Boniface Rono's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulbony3&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+You can reach me at paulbonnie3@gmail.com or at [Linkedin](www.linkedin.com/in/boniface-rono).
+
+Thanks for stopping by! 😊
